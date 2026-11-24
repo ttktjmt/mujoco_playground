@@ -23,7 +23,7 @@ Sim-to-Real
 Workflow
 --------
 
-Complete :doc:`robots` first before deploying on hardware:
+Complete the :doc:`SO-101 setup <../robots/so101>` first before deploying on hardware:
 
 .. code-block:: bash
 

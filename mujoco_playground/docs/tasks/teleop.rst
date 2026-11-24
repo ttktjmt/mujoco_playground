@@ -2,7 +2,7 @@ Teleoperation
 =============
 
 ``tasks/teleop/so101`` collects demonstrations by driving an SO-101 follower arm from a physical SO-101 leader arm in
-simulation or on hardware (complete :doc:`robots` first to identify and calibrate the arms).
+simulation or on hardware (complete the :doc:`SO-101 setup <../robots/so101>` first to identify and calibrate the arms).
 
 .. list-table::
     :widths: 50 50

@@ -45,29 +45,29 @@ Highlights
             :alt: Whole body motion tracking
             :width: 100%
 
-            :doc:`Whole-body motion tracking <rl_training>`
+            :doc:`Whole-body motion tracking <tasks/rl/whole_body>`
       - .. figure:: https://www.gstatic.com/reaf-sim/demos/so101_sim_teleop/0/so101_sim_teleop.webp
             :alt: SO-101 Simulation Teleoperation Demo
             :width: 100%
 
-            :doc:`Sim teleoperation <teleop>`
+            :doc:`Sim teleoperation <tasks/teleop>`
     * - .. figure:: https://www.gstatic.com/reaf-sim/demos/so101_real_teleop/0/so101_real_teleop.webp
             :alt: SO-101 Real Teleoperation Demo
             :width: 100%
 
-            :doc:`Real teleoperation <teleop>`
+            :doc:`Real teleoperation <tasks/teleop>`
       - .. figure:: https://www.gstatic.com/reaf-sim/demos/so101_sysid/0/so101_sysid.webp
             :alt: SO-101 System Identification Rollout
             :width: 100%
 
-            :doc:`System identification <sysid>`
+            :doc:`System identification <tasks/sysid>`
     * - .. figure:: https://www.gstatic.com/reaf-sim/demos/so101_pick_cube_sim2real/1/so101_pick_cube_sim2real.webp
             :alt: Sim2Real and interactive viewer
             :width: 100%
 
-            :doc:`Sim-to-real deployment <sim2real>`
+            :doc:`Sim-to-real deployment <tasks/sim2real>`
       - .. figure:: https://www.gstatic.com/reaf-sim/demos/yam_mug_real/0/yam_mug_real.webp
             :alt: YAM Agentic Tabletop Manipulation
             :width: 100%
 
-            :doc:`Agentic manipulation <agentic>`
+            :doc:`Agentic manipulation <tasks/agentic>`

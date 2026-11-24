@@ -1,0 +1,5 @@
+Unitree G1
+==========
+
+29-DoF humanoid robot, in simulation only (``robots/g1/sim``). Used by :doc:`Whole Body <../tasks/rl/whole_body>`
+(``G1WholeBodyTracking``).

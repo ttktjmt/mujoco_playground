@@ -57,13 +57,13 @@ This is the policy that :doc:`Sim-to-Real <../sim2real>` deploys on the physical
 .. raw:: html
 
    <iframe
-     src="https://embed.mjswan.com/Dthx02o"
+     src="https://embed.mjswan.com/3-dJZNH"
      title="SO101PickCubeVision, interactive demo (mjswan)"
      style="display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 6px;"
      allow="xr-spatial-tracking"
      allowfullscreen
    ></iframe>
-   <p><a href="https://mjswan.com/s/Dthx02o" target="_blank" rel="noopener">Open in a new tab ↗</a></p>
+   <p><a href="https://mjswan.com/s/3-dJZNH" target="_blank" rel="noopener">Open in a new tab ↗</a></p>
 
 .. code-block:: bash
 

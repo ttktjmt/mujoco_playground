@@ -74,23 +74,16 @@ This is the policy that :doc:`Sim-to-Real <../sim2real>` deploys on the physical
 TrossenPickCube
 ---------------
 
-.. Placeholder until the mjswan Cloud demo is published: then an iframe on
-   https://embed.mjswan.com/<id>, and an "Open in a new tab" link to https://mjswan.com/s/<id>.
-
 .. raw:: html
 
-   <div role="img" aria-label="Interactive demo of TrossenPickCube, coming soon"
-     style="width: 100%; aspect-ratio: 16 / 9; border-radius: 6px; background: #1f2633;
-       color: #c9d1dc; display: flex; flex-direction: column; align-items: center;
-       justify-content: center; gap: 0.5rem; text-align: center; font-size: 0.95rem;
-       box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08); margin-bottom: 1.15rem;">
-     <svg width="48" height="48" viewBox="0 0 48 48" aria-hidden="true">
-       <circle cx="24" cy="24" r="22" fill="none" stroke="currentColor" stroke-width="2"/>
-       <path d="M19 15 L34 24 L19 33 Z" fill="currentColor"/>
-     </svg>
-     <span>Interactive demo: TrossenPickCube</span>
-     <span style="opacity: 0.65; font-size: 0.85rem;">Coming soon on mjswan Cloud</span>
-   </div>
+   <iframe
+     src="https://embed.mjswan.com/lDIKRyb"
+     title="TrossenPickCube, interactive demo (mjswan)"
+     style="display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 6px;"
+     allow="xr-spatial-tracking"
+     allowfullscreen
+   ></iframe>
+   <p><a href="https://mjswan.com/s/lDIKRyb" target="_blank" rel="noopener">Open in a new tab ↗</a></p>
 
 .. code-block:: bash
 
@@ -101,23 +94,16 @@ TrossenPickCube
 TrossenPickCubeVision
 ---------------------
 
-.. Placeholder until the mjswan Cloud demo is published: then an iframe on
-   https://embed.mjswan.com/<id>, and an "Open in a new tab" link to https://mjswan.com/s/<id>.
-
 .. raw:: html
 
-   <div role="img" aria-label="Interactive demo of TrossenPickCubeVision, coming soon"
-     style="width: 100%; aspect-ratio: 16 / 9; border-radius: 6px; background: #1f2633;
-       color: #c9d1dc; display: flex; flex-direction: column; align-items: center;
-       justify-content: center; gap: 0.5rem; text-align: center; font-size: 0.95rem;
-       box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08); margin-bottom: 1.15rem;">
-     <svg width="48" height="48" viewBox="0 0 48 48" aria-hidden="true">
-       <circle cx="24" cy="24" r="22" fill="none" stroke="currentColor" stroke-width="2"/>
-       <path d="M19 15 L34 24 L19 33 Z" fill="currentColor"/>
-     </svg>
-     <span>Interactive demo: TrossenPickCubeVision</span>
-     <span style="opacity: 0.65; font-size: 0.85rem;">Coming soon on mjswan Cloud</span>
-   </div>
+   <iframe
+     src="https://embed.mjswan.com/f0f83gj"
+     title="TrossenPickCubeVision, interactive demo (mjswan)"
+     style="display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 6px;"
+     allow="xr-spatial-tracking"
+     allowfullscreen
+   ></iframe>
+   <p><a href="https://mjswan.com/s/f0f83gj" target="_blank" rel="noopener">Open in a new tab ↗</a></p>
 
 .. code-block:: bash
 

@@ -97,13 +97,13 @@ TrossenPickCubeVision
 .. raw:: html
 
    <iframe
-     src="https://embed.mjswan.com/f0f83gj"
+     src="https://embed.mjswan.com/rlpfagJ"
      title="TrossenPickCubeVision, interactive demo (mjswan)"
      style="display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 6px;"
      allow="xr-spatial-tracking"
      allowfullscreen
    ></iframe>
-   <p><a href="https://mjswan.com/s/f0f83gj" target="_blank" rel="noopener">Open in a new tab ↗</a></p>
+   <p><a href="https://mjswan.com/s/rlpfagJ" target="_blank" rel="noopener">Open in a new tab ↗</a></p>
 
 .. code-block:: bash
 
